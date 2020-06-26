@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git-akshit/bitcoin-dashboard/static/css/main.6cb47de8.chunk.css",
+    "main.js": "/git-akshit/bitcoin-dashboard/static/js/main.2c6329a3.chunk.js",
+    "main.js.map": "/git-akshit/bitcoin-dashboard/static/js/main.2c6329a3.chunk.js.map",
+    "runtime-main.js": "/git-akshit/bitcoin-dashboard/static/js/runtime-main.5125c1a2.js",
+    "runtime-main.js.map": "/git-akshit/bitcoin-dashboard/static/js/runtime-main.5125c1a2.js.map",
+    "static/js/2.56a3e217.chunk.js": "/git-akshit/bitcoin-dashboard/static/js/2.56a3e217.chunk.js",
+    "static/js/2.56a3e217.chunk.js.map": "/git-akshit/bitcoin-dashboard/static/js/2.56a3e217.chunk.js.map",
+    "index.html": "/git-akshit/bitcoin-dashboard/index.html",
+    "precache-manifest.86fbed9d7765cfa6b809d55dd9721900.js": "/git-akshit/bitcoin-dashboard/precache-manifest.86fbed9d7765cfa6b809d55dd9721900.js",
+    "service-worker.js": "/git-akshit/bitcoin-dashboard/service-worker.js",
+    "static/css/main.6cb47de8.chunk.css.map": "/git-akshit/bitcoin-dashboard/static/css/main.6cb47de8.chunk.css.map",
+    "static/js/2.56a3e217.chunk.js.LICENSE.txt": "/git-akshit/bitcoin-dashboard/static/js/2.56a3e217.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5125c1a2.js",
+    "static/js/2.56a3e217.chunk.js",
+    "static/css/main.6cb47de8.chunk.css",
+    "static/js/main.2c6329a3.chunk.js"
+  ]
+}
