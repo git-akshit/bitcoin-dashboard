@@ -48,33 +48,7 @@ class App extends Component {
         });
     }
     getData();
-
-    const subscribe = {
-      "event": "message",
-    "data": {
-        "operation": "subscribe",
-        "options": {
-            "currency": "BTCUSD",
-            "symbol_set": "global"
-        }
-    }
-    };
-
-    this.ws = new WebSocket("wss://apiv2.bitcoinaverage.com/websocket/ticker");
-
-    this.ws.onopen = () => {
-      this.ws.send(JSON.stringify(subscribe));
-    };
-
-    this.ws.onmessage = e => {
-      const value = JSON.parse(e.data);
-      console.log(value);
-      if (value.event === "message") {
-        console.log(value);
-        return;
-      }
-      console.log(value);
-    }
+    
   }
   render() {
     return (
