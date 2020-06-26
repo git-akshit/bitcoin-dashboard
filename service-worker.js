@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/git-akshit/bitcoin-dashboard/precache-manifest.86fbed9d7765cfa6b809d55dd9721900.js"
+  "/git-akshit/bitcoin-dashboard/precache-manifest.88026803a1db8cda4732ba43dd98e869.js"
 );
 
 self.addEventListener('message', (event) => {
